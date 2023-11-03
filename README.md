@@ -4,7 +4,7 @@
   </a>
   Welcome to my profile 👋
   </br>
-  <a href="https://guillermovb.github.io">
+  <a href="https://guillermovillanuevabenito.com/">
     <img alt="Guillermo Villanueva Benito's personal Website" src="https://shields.io/badge/Personal-Website-223" />
   </a>
   <p align="center">
