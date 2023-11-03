@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://guillermovillanuevabenito.com">
-    <img src="https://raw.githubusercontent.com/guillermovb/common-assets/me.png" align="right" width="160" />
+    <img src="https://github.com/guillermovb/common-assets/blob/main/me.png" align="right" width="160" />
   </a>
   Welcome to my profile 👋
   </br>
