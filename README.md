@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred" />
     </a>
     <a href="https://huggingface.co/guillermovb">
-      <img src="https://img.shields.io/badge/Hugging Face-100000?style=flat&logo=huggingface&logoColor=white&color=darkred" />
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange" />
     </a>
   </p>
 </h1>
