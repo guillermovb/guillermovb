@@ -4,9 +4,6 @@
   </a>
   Welcome to my profile 👋
   </br>
-  <a href="https://guillermovillanuevabenito.com/">
-    <img alt="Guillermo Villanueva Benito's personal Website" src="https://shields.io/badge/Personal-Website-223" />
-  </a>
   <p align="center">
     <a href="https://www.linkedin.com/in/guillermo-villanueva-130691234/">
       <img src="https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
