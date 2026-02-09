@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/guillermo-villanueva-130691234/">
       <img src="https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
     </a>
+    <a href="https://scholar.google.com/citations?user=24LyePoAAAAJ&hl">
+  <    img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=googlescholar&logoColor=white" />
+    </a>
     <a href="https://orcid.org/0009-0005-3812-2462">
       <img src="https://img.shields.io/badge/ORCID-100000?style=flat&logo=ORCID&logoColor=white&color=A6CE39" />
     </a>
